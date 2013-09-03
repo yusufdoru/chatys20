@@ -1,0 +1,23 @@
+{
+  "name": "ChatYS",
+  "version": "2.0.0",
+  "description": "ChatYS 2.0 - Simple Chat System",
+  "main": "app.js",
+  "dependencies": {
+    "express": "~3.3.4",
+    "jade": "~0.33.0",
+    "socket.io": "~0.9.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chatys",
+    "simple",
+    "chat",
+    "system"
+  ],
+  "author": "Yusuf Doru",
+  "license": "BSD"
+}
