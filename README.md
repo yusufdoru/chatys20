@@ -1,6 +1,6 @@
 ChatYS 2.0 - Simple Chat System (Basit Sohbet Sistemi)
 
-Step 1: "npm install"
+Step 1: "npm install"<br>
 Step 2: "node app"
 
 
