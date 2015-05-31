@@ -1,5 +1,9 @@
 ChatYS 2.0 - Simple Chat System (Basit Sohbet Sistemi)
 
+Step 1: "npm install"
+Step 2: "node app"
+
+
 Özellikler (Features) : 
 
 Bu sistem arka tarafta node.js, express.js, socket.io ve jade ile yazılmıştır. Ön tarafta jQuery ve Twitter Bootstrap kullanılmıştır. Basit olarak misafirlere sohbet etme imkanı sağlıyor.
